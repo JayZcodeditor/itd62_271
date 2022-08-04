@@ -1,5 +1,7 @@
 <?php
 echo"Hello JIRAYU SATSANATAYAT";
 echo"ID : 64102288";
+echo"Hello ",$name;
+echo"ID:",$sid;
 ?>
  
