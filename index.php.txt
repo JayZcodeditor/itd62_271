@@ -1,6 +1,0 @@
-<?php
-$name = "THAMMAKIT CHOTCHUANG";
-$sid = "64106107";
-echo "Hello ", $name;
-echo "ID : ", $sid;
-?>
